@@ -1,2 +1,29 @@
 ******Exploratory Data Analysis for Eye Tracking Dyslexia Dataset***
 We perfomed an exploratory data analysis to understand the dataset prior to training an eye tracking dyslexia model.
+These visualizations cover univariate distributions, bivariate relationships, time‑series trends across blocks and aggregated performance metrics.
+These are the 25 EDA visualisations;
+1.Bar plot of Gender distribution.
+2.Bar plot of Nativelang distribution (Yes/No).
+3.Bar plot of Otherlang distribution (Yes/No).
+4.Histogram of Age distribution.
+5.Bar plot of Dyslexia counts.
+6.Boxplot of Age by Dyslexia.
+7.Stacked bar of Gender by Dyslexia.
+8.Stacked bar of Nativelang by Dyslexia.
+9.Stacked bar of Otherlang by Dyslexia.
+10.Line plot of mean Accuracy across blocks for Dyslexia groups.
+11.Line plot of mean Missrate across blocks for Dyslexia groups.
+12.Line plot of mean Hits across blocks for Dyslexia groups.
+13.Line plot of mean Clicks across blocks for Dyslexia groups.
+14.Heatmap of correlation between Accuracy across blocks.
+15.Boxplot of overall mean Accuracy per person by Dyslexia.
+16.Boxplot of overall mean Missrate per person by Dyslexia.
+17.Boxplot of overall mean Hits per person by Dyslexia.
+18.Boxplot of overall mean Clicks per person by Dyslexia.
+19.Scatter plot of Age vs overall mean Accuracy, colored by Dyslexia.
+20.Pairplot of demographic variables (Gender, Nativelang, Otherlang, Age) with hue=Dyslexia.
+21.Violin plot of Age by Dyslexia.
+22.Count plot of Dyslexia by Gender and Native Language.
+23.Distribution of total Clicks (sum across blocks) by Dyslexia (histogram or boxplot).
+24.Distribution of total Hits (sum across blocks) by Dyslexia.
+25.Distribution of total Misses (sum across blocks) by Dyslexia.
